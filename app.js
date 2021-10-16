@@ -8,9 +8,6 @@ const searchMeal = () => {
 
 const displayMeal = (mealData) => {
   const searchDetails = document.getElementById("search-details");
-  // mealData.forEach(searchData => {
-  //   console.log(searchData);
-  // })
   for (let i = 0; i < mealData.meals.length; i++) {
     const meal = mealData.meals[i];
     // console.log(meal);

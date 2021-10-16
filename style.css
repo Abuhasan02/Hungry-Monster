@@ -7,3 +7,14 @@
     align-items: center;
     margin: 10px 10px;
 }
+.input-field{
+    margin: 20px;
+    padding: 10px;
+}
+#button-search{
+    
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    border: 2px solid rgb(101, 104, 104);
+}
